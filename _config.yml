@@ -22,7 +22,7 @@ github_username:  SungMyoungSu
 # facebook_username: N/A
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: 성명수
+linkedin_username: www.linkedin.com/in/myungsusung
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -30,10 +30,10 @@ linkedin_username: 성명수
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,29 +48,45 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/freerider.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  안녕하세요! 저는 웹어플리케이션 개발자 성명수 입니다.
+  현재 MSP 프로젝트에서 AA 역할을 수행하고 있습니다.
+  최근에 관심을 갖고 집중적으로 일하는 스킬은 <mark>AWS</mark>, <mark>U2L</mark>, <mark>Spring Boot</mark>, <mark>Vue</mark>입니다.
+  Legacy Application을 Cloud Transformation하는데 집중하고 있습니다.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: A사 Cloud화 프로젝트 진행중
+        # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #additional_links:
+         # - title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+           # url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          전사 시스템 클라우드화 진행.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          진행중인 프로젝트로 종료 후 업데이트
+
+  - title: H사 Portal 시스템 개편
+        # link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+         # - title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+           # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          전사 시스템 클라우드화 진행.
+        description: | # this will include new lines to allow paragraphs
+          진행중인 프로젝트로 종료 후 업데이트
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
